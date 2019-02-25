@@ -1,0 +1,14 @@
+{
+    "name": "huster-solutions",
+    "version": "1.0.0",
+    "description": "My Website",
+    "author": "Daniel Huster",
+    "private": true,
+    "scripts": {
+        "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "push-dir": "^0.4.1"
+    }
+}
