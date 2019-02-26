@@ -14,15 +14,15 @@ workbox.precaching.precacheAndRoute([
     "revision": "89c27d788251e7dffacd2eba107c9eb5"
   },
   {
-    "url": "/HusterSolutions/_nuxt/ceec2cafccd264bd07b6.js",
-    "revision": "23860362ec9ae82fda7e35434f818be2"
+    "url": "/HusterSolutions/_nuxt/9d6564f76d5cefeacab9.js",
+    "revision": "db869d0fa35a0e2b791e091ad914a191"
   },
   {
-    "url": "/HusterSolutions/_nuxt/e4da875f3e49d59fee29.js",
-    "revision": "0bf65adfaaa39590499850b592b32a18"
+    "url": "/HusterSolutions/_nuxt/ceec2cafccd264bd07b6.js",
+    "revision": "23860362ec9ae82fda7e35434f818be2"
   }
 ], {
-  "cacheId": "huster-solutions-web-nuxt",
+  "cacheId": "huster-solutions-web",
   "directoryIndex": "/",
   "cleanUrls": false
 })
